@@ -170,7 +170,7 @@
                                     <li>
                                         <h3 class="icon fa-envelope" style="border-bottom:none; padding:0; margin:0; float:left; width:10%; text-align:center;"><span class="label">Address</span></h3>
                                         <div style="float:left;">
-                                            <a href="mailto:hello@batandwildlifesolutions.com" style="font-size:14px;">hello@batandwildlifesolutions.com</a>
+                                            <a href="mailto:info@batandwildlifesolutions.com" style="font-size:14px;">info@batandwildlifesolutions.com</a>
                                         </div>
                                     </li>
                                 </ul>
