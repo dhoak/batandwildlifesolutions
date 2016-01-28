@@ -27,313 +27,92 @@
 							<div class="inner">
 
 								<section>
-									<h4>Text</h4>
-									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
-									<hr />
-									<header>
-										<h4>Heading with a Subtitle</h4>
-										<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
-									</header>
-									<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-									<header>
-										<h5>Heading with a Subtitle</h5>
-										<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
-									</header>
-									<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-									<hr />
-									<h2>Heading Level 2</h2>
-									<h3>Heading Level 3</h3>
-									<h4>Heading Level 4</h4>
-									<h5>Heading Level 5</h5>
-									<h6>Heading Level 6</h6>
-									<hr />
-									<h5>Blockquote</h5>
-									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
-									<h5>Preformatted</h5>
-									<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-  print 'Iteration ' + i;
-  deck.shuffle();
-  i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+									<h4>GROUNDHOGS</h4>
+									<p>The groundhog, also known as a woodchuck, are well adapted for digging with short 
+									and powerful limbs and thick curved claws. They are a nuisance, mainly digging around 
+									sheds, under decks and loosening stones around boulder walls. They can live for up to 
+									six years, being mostly herbivorous eating wild grasses and other vegetation. Groundhogs 
+									are one of the few species that enters into a true hibernation during the winter months. 
+									They birth between 2-6 young around April-May and the young groundhogs leave their mother 
+									around 5-6 weeks of age.</p>
 								</section>
 
 								<section>
-									<h4>Lists</h4>
-									<div class="row">
-										<div class="6u 12u$(medium)">
-											<h5>Unordered</h5>
-											<ul>
-												<li>Dolor pulvinar etiam.</li>
-												<li>Sagittis adipiscing.</li>
-												<li>Felis enim feugiat.</li>
-											</ul>
-											<h5>Alternate</h5>
-											<ul class="alt">
-												<li>Dolor pulvinar etiam.</li>
-												<li>Sagittis adipiscing.</li>
-												<li>Felis enim feugiat.</li>
-											</ul>
-										</div>
-										<div class="6u$ 12u$(medium)">
-											<h5>Ordered</h5>
-											<ol>
-												<li>Dolor pulvinar etiam.</li>
-												<li>Etiam vel felis viverra.</li>
-												<li>Felis enim feugiat.</li>
-												<li>Dolor pulvinar etiam.</li>
-												<li>Etiam vel felis lorem.</li>
-												<li>Felis enim et feugiat.</li>
-											</ol>
-											<h5>Icons</h5>
-											<ul class="icons">
-												<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-												<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-												<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-												<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-											</ul>
-										</div>
-									</div>
-									<h5>Actions</h5>
-									<div class="row">
-										<div class="6u 12u$(medium)">
-											<ul class="actions">
-												<li><a href="#" class="button special">Default</a></li>
-												<li><a href="#" class="button">Default</a></li>
-											</ul>
-											<ul class="actions small">
-												<li><a href="#" class="button special small">Small</a></li>
-												<li><a href="#" class="button small">Small</a></li>
-											</ul>
-											<ul class="actions vertical">
-												<li><a href="#" class="button special">Default</a></li>
-												<li><a href="#" class="button">Default</a></li>
-											</ul>
-											<ul class="actions vertical small">
-												<li><a href="#" class="button special small">Small</a></li>
-												<li><a href="#" class="button small">Small</a></li>
-											</ul>
-										</div>
-										<div class="6u 12u$(medium)">
-											<ul class="actions vertical">
-												<li><a href="#" class="button special fit">Default</a></li>
-												<li><a href="#" class="button fit">Default</a></li>
-											</ul>
-											<ul class="actions vertical small">
-												<li><a href="#" class="button special small fit">Small</a></li>
-												<li><a href="#" class="button small fit">Small</a></li>
-											</ul>
-										</div>
-									</div>
+									<h4>RACCOONS</h4>
+									<p>Raccoons are noted for the intelligence in remember the solution to tasks for up to 3 
+									years! Due to their adaptability and approaching urban areas, some homeowners consider them 
+									pests as they find their way inside attic spaces. The young, also known as “kits,” are born 
+									in the spring making this the time homeowners usually begin to notice a problem. Raccoons 
+									birth 2-5 young and these kit stay with their mother until the fall. Raccoons can carry 
+									rabies and also leave a nasty mess behind from urine and feces. For more information on an 
+									attic clean up, check out our attic restoration page.</p>
 								</section>
 
 								<section>
-									<h4>Table</h4>
-									<h5>Default</h5>
-									<div class="table-wrapper">
-										<table>
-											<thead>
-												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Item One</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Two</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Three</td>
-													<td> Morbi faucibus arcu accumsan lorem.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Four</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Five</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>100.00</td>
-												</tr>
-											</tfoot>
-										</table>
-									</div>
-
-									<h5>Alternate</h5>
-									<div class="table-wrapper">
-										<table class="alt">
-											<thead>
-												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Item One</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Two</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Three</td>
-													<td> Morbi faucibus arcu accumsan lorem.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Four</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Five</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>100.00</td>
-												</tr>
-											</tfoot>
-										</table>
-									</div>
+									<h4>SKUNKS</h4>
+									<p>Skunks are known for their ability to spray liquid with a strong odor. They are omnivorous 
+									and very commonly seek out garbage left by humans. Skunks dig holes, getting under decks and 
+									causing a smelly problem, which is why it's a good idea to trap and relocate them. They 
+									usually give birth to 5-6 young in May. Skunks can carry rabies, although it is rare for them 
+									to bite a human.</p>
 								</section>
 
 								<section>
-									<h4>Buttons</h4>
-									<ul class="actions">
-										<li><a href="#" class="button special">Special</a></li>
-										<li><a href="#" class="button">Default</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="#" class="button big">Big</a></li>
-										<li><a href="#" class="button">Default</a></li>
-										<li><a href="#" class="button small">Small</a></li>
-									</ul>
-									<ul class="actions fit">
-										<li><a href="#" class="button fit">Fit</a></li>
-										<li><a href="#" class="button special fit">Fit</a></li>
-										<li><a href="#" class="button fit">Fit</a></li>
-									</ul>
-									<ul class="actions fit small">
-										<li><a href="#" class="button special fit small">Fit + Small</a></li>
-										<li><a href="#" class="button fit small">Fit + Small</a></li>
-										<li><a href="#" class="button special fit small">Fit + Small</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="#" class="button special icon fa-download">Icon</a></li>
-										<li><a href="#" class="button icon fa-download">Icon</a></li>
-									</ul>
-									<ul class="actions">
-										<li><span class="button special disabled">Disabled</span></li>
-										<li><span class="button disabled">Disabled</span></li>
-									</ul>
+									<h4>OPOSSUMS</h4>
+									<p>Opossums are marsupials with a flexible diet. They have reproductive habits that colonizers 
+									and easy survivors in diverse locations and conditions. Opossums are nocturnal animals, they 
+									favor dark and secure locations, typically under decks or in crawl spaces within the home. Any 
+									mammal can carry rabies, but due to their low body temperature (94-97°F,) it makes it difficult 
+									for the virus to survive.</p>
 								</section>
 
 								<section>
-									<h4>Form</h4>
-									<form method="post" action="#">
-										<div class="row uniform">
-											<div class="6u 12u$(xsmall)">
-												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-											</div>
-											<div class="6u$ 12u$(xsmall)">
-												<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-											</div>
-											<div class="12u$">
-												<div class="select-wrapper">
-													<select name="demo-category" id="demo-category">
-														<option value="">- Category -</option>
-														<option value="1">Manufacturing</option>
-														<option value="1">Shipping</option>
-														<option value="1">Administration</option>
-														<option value="1">Human Resources</option>
-													</select>
-												</div>
-											</div>
-											<div class="4u 12u$(small)">
-												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-												<label for="demo-priority-low">Low</label>
-											</div>
-											<div class="4u 12u$(small)">
-												<input type="radio" id="demo-priority-normal" name="demo-priority">
-												<label for="demo-priority-normal">Normal</label>
-											</div>
-											<div class="4u$ 12u$(small)">
-												<input type="radio" id="demo-priority-high" name="demo-priority">
-												<label for="demo-priority-high">High</label>
-											</div>
-											<div class="6u 12u$(small)">
-												<input type="checkbox" id="demo-copy" name="demo-copy">
-												<label for="demo-copy">Email me a copy</label>
-											</div>
-											<div class="6u$ 12u$(small)">
-												<input type="checkbox" id="demo-human" name="demo-human" checked>
-												<label for="demo-human">Not a robot</label>
-											</div>
-											<div class="12u$">
-												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-											</div>
-											<div class="12u$">
-												<ul class="actions">
-													<li><input type="submit" value="Send Message" class="special" /></li>
-													<li><input type="reset" value="Reset" /></li>
-												</ul>
-											</div>
-										</div>
-									</form>
+									<h4>SQUIRRELS</h4>
+									<p>FOX SQUIRRELS usually are observed in yards or traveling electric lines. They are the largest 
+									tree squirrel found in Michigan, usually a cinnamon color with a tan belly. Fox squirrels aren't 
+									big chewers and take advantage of preexisting holes or damage to gain access to a home.</p>
+
+									<p>GRAY SQUIRRELS are smaller than fox squirrels and color varies between black and gray. They 
+									spend most of their lives in trees or backyards.</p>
+
+									<p>RED SQUIRRELS are smaller in size at about 12-15 inches from nose to tail. They tend to be a 
+									solid reddish brown with a light/white belly. These little guys can wreck havoc chewing at eaves 
+									or gable vents getting into attics to nest.</p>
+
+									<p>NORTHERN FLYING SQUIRRELS are rarely seen due to their nocturnal habits. They have a flattened 
+									tail and excess skin that they use to glide from on tree to another. They will also chew round 
+									holes to gain access to attics and walls, causing a racket during night hours.</p>
+
+									<p>CHIPMUNKS are a small ground squirrel. Reddish brown with a white stripe down their back bordered 
+									with two black stripes. Chipmunks are usually just an annoyance with loud chirping and tunnels dug 
+									through flower gardens.</p>
 								</section>
 
 								<section>
-									<h4>Image</h4>
-									<h5>Fit</h5>
-									<div class="box alt">
-										<div class="row uniform 50%">
-											<div class="12u"><span class="image fit"><img src="images/banner.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-											<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-										</div>
-									</div>
-									<h5>Left &amp; Right</h5>
-									<p><span class="image left"><img src="images/pic04.jpg" alt="" /></span>Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien. Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.</p>
-									<p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.</p>
+									<h4>MICE</h4>
+									<p>Mice are small mammals with a painted snout, rounded ears and a long almost hairless tail. The 
+									females give to a litter of 3-14 young. One female can have 5-10 litters per year, so the population 
+									can increase very quickly. They are often found in basements, where food is kept or trying to keep 
+									warm in attics during winter months.</p>
 								</section>
 
+								<section>
+									<h4>BIRDS</h4>
+									<p>PIGEONS will be found roosting on roofs or causing a serious mess around commercial buildings in 
+									rafters or docking areas. We offer numerous solutions for prevention and clean up.</p>
+
+									<p>CHIMNEY SWIFTS are incapable of perching and can only cling vertically to surfaces. They build 
+									bracket nests almost always within a human-built structure, usually chimneys. They tend to have 
+									babies near the end of May, around this time you may hear an annoying sound coming from your chimney.</p>
+
+									<p>STARLINGS are typically dark with a metallic sheen and a yellow beak. Most nest in holes or find 
+									their way into residential exhaust fans or openings. They lay blue or white eggs are can be an annoyance 
+									to homeowners. We offer a variety of clean-up and deterrent options.</p>
+
+									<p>SPARROWS are generally small, plump birds which makes it easy for them to enter though construction 
+									gaps in eaves of homes. They will build nests in soffits and attic spaces. We often seal entry points 
+									to bird proof your home and prevent them from gaining future access.</p>
+								</section>
 							</div>
 						</section>
 					</article>
