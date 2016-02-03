@@ -30,7 +30,7 @@
 									<p>During the inspection of the home, our technician will determine if you have a maternity colony 
 									living in your attic. It is important not to disturb a maternity colony during the months of June and July. 
 									The smaller male colonies can be determined by fewer droppings. If our technician is unsure, it's important 
-									to wait because bats are protected species and beneficial to our ecosystem. At this time we will also check 
+									to wait because bats are a protected species and beneficial to our ecosystem. At this time we will also check 
 									attic spaces and on the exterior, the roof line of the home to determine any entry points. Most openings are 
 									around a half-inch in size and will have evidence of droppings or a dark discoloration from the oils of the 
 									bat's fur. Once all these factors are taken into account, we will provide a detailed estimate for removal 
@@ -62,7 +62,7 @@
 									<p>Summer Bats<br>
 									During summer months bats are most active due to warm temperatures and large insect populations. The juvenile 
 									pups are learning to fly and are generally ready by the last weeks of July to the first weeks of August. If it 
-									s determined that you have a maternal colony with pups, we will have to wait until August to perform your 
+									is determined that you have a maternal colony with pups, we will have to wait until August to perform your 
 									exclusion. If it is male colony, the exclusion can be done immediately. Bats are a protected mammal and very 
 									important to our environment, they are always safely relocated.</p>
 
@@ -82,7 +82,7 @@
 									<p>Rabies<br>
 									Rabies is a preventable viral disease of mammals most often transmitted through the bite of a rabid animal. 
 									The vast majority of rabies cases reported to the Centers for Disease Control each year occur in wild animals 
-									uch as; raccoon, skunks, bats and foxes. The rabies virus infects the central nervous system, ultimately 
+									such as; raccoon, skunks, bats and foxes. The rabies virus infects the central nervous system, ultimately 
 									causing disease in the brain and death. The principle rabies hosts today are wild carnivores and bats. The 
 									number of rabies related human deaths has declined greatly and there are very few every year. Our technicians 
 									are equipped with tools to safely remove the bats from your home, you should not attempt to remove a bat 
