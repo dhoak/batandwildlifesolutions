@@ -3279,15 +3279,31 @@
 				border: 0;
 				display: block;
 				height: inherit;
-				line-height: inherit;
+				line-height: 1.5em;
 			}
 
 				@media screen and (max-width: 736px) {
 
 					#header h1 a {
 						font-size: 0.8em;
+						line-height: 1.5em;
 					}
 
+				}
+
+		#header phone{
+			height: inherit;
+			line-height: inherit;
+			position: absolute;
+			right: 0;
+			top: 0;
+		}
+				@media screen and (max-width: 736px) {
+
+					#header phone {
+						font-size: 0.8em;
+						line-height: 1.5em;
+					}
 				}
 
 		#header nav {

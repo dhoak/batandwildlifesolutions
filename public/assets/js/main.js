@@ -95,6 +95,63 @@
 
 			}
 
+
 	});
+
+	$("#sendMessageBtn").click(function(){
+		
+		var data = {
+			name: $("#name").val(),
+			email: $("#email").val(),
+			phone: $("#phone").val(),
+			message: $("#message").val()
+		};
+
+		var error = "";
+		if(data.name == "" || data.email == "" || data.phone == "" || data.message == ""){
+			error = "All of the fields below are required to send a message.";
+		}
+		else if(!isPhone(data.phone)){
+			error = "Please provide a valid phone number in the format ###-###-####.";
+		}
+		else if(!isEmail(data.email)){
+			error = "Please provide a valid email address.";
+		}
+
+		if(error!=""){
+			$("#formStatus").html(error);
+			$("#formStatus").css("color", "#ed4933");
+		}
+		else{
+			$.ajax({
+	  			type: "POST",
+	  			url: "/contact",
+	  			data: data,
+	  			success: messageSent()
+			});
+		}
+	});
+
+	function messageSent(){
+		$("#name").val("");
+		$("#email").val("");
+		$("#phone").val("");
+		$("#message").val("");
+
+		$("#formStatus").html("<div>Your message has been sent.</div><div>We will contact you regarding your request as soon as possible.</div>");
+		$("#formStatus").css("color", "#21b2a6");
+	}
+
+	function isEmail(email) {
+  		var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+  		return regex.test(email);
+	}
+
+	function isPhone(phone) {
+  		var regex = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+  		return regex.test(phone);
+	}
+
+
 
 })(jQuery);

@@ -29,7 +29,7 @@ Route::get('/nav', function () {
 Route::get('/footer', function () {
     return view('footer');
 });
-Route::get('/bat', function () {
+Route::get('/bats', function () {
     return view('bat');
 });
 Route::get('/wildlife', function () {

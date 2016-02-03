@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-        <title>Bat and Wildlife Solutions</title>
+        <title>Attic Restoration - Taking Your Attic Back in Time | Bat and Wildlife Solutions</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -21,7 +21,7 @@
 					<article id="main">
 						<header>
 							<h2>Attic Restoration</h2>
-							<p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
+							<p>You'll think we've turned back the hands of time.</p>
 						</header>
 						<section class="wrapper style5">
 							<div class="inner">

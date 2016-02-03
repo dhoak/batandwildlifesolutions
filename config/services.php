@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
+        'domain' => 'mg.batandwildlifesolutions.com',
+        'secret' => 'key-a14cfec25045ea5d81b69606c484e7c7',
     ],
 
     'mandrill' => [

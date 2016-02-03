@@ -3288,6 +3288,35 @@
 					}
 
 				}
+				@media screen and (max-width: 500px) {
+
+					#header h1 a {
+						width: 200px;
+						line-height: 1.75em;
+					}
+
+				}
+
+
+
+			.phone {
+				height: inherit;
+				line-height: inherit;
+				position: absolute;
+				right: 7em;
+				top: 0;
+				font-weight: 800;
+				letter-spacing: 0.225em;
+			}
+
+				@media screen and (max-width: 736px) {
+
+					.phone {
+						font-size: 0.8em;
+						right:3.5em;
+					}
+
+				}
 
 		#header nav {
 			height: inherit;
