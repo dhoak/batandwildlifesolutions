@@ -55,7 +55,7 @@
                             <div class="image"><img src="images/bat.jpg" alt="" /></div><div class="content">
                                 <h2>Bat Exclusions</h2>
                                 <p>Our Bat Removal Specialists are the best in the business. Removing these critters can be tricky, but our seasoned
-                                professionals will walk through the process every step of the way.</p>
+                                professionals will walk you through the process every step of the way.</p>
                                 <ul class="actions">
                                     <li><input type="submit" value="Learn More" onclick="javascript:document.location='/bats'"></li>
                                 </ul>
@@ -89,7 +89,7 @@
                         <div class="inner">
                             <header class="major">
                                 <h2>Service Area</h2>
-                                <p>Our technicians will travel daily up to a two hour radius of our home basis in Livingston county. Our daily appointment locations include cities in: </p>
+                                <p>Our technicians will travel daily up to a two hour radius of our home base in Livingston county. Our daily appointment locations include cities in: </p>
                                 <div style="text-align:center; margin:auto; width:70%;">   
                                     <div style="float:left; width:50%;">
                                         <ul style="list-style:none;">
@@ -128,7 +128,7 @@
                                     </div>
                                     <div style="clear:both;"></div>
                                 </div>
-                                <p>As a company we pride ourselves on helping you with you bat exclusion or attic restoration needs and will travel state-wide by appointment. Don't hesitate to give us a call even if your county is not listed above.</p>
+                                <p>As a company we pride ourselves on helping you with your bat exclusion or attic restoration needs and will travel state-wide by appointment. Don't hesitate to give us a call even if your county is not listed above.</p>
                             </header>
                         </div>
                     </section>
