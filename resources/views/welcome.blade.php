@@ -25,7 +25,7 @@
                 <!-- Banner -->
                     <section id="banner">
                         <div class="inner">
-                            <h2>Bat and Wildlife Solutions</h2>
+                            <img style="max-width: 100%; height: auto; display: block; position: relative; top: -50px; margin: auto;" src="images/logo.png" />
                             <p>Those critters don't stand a chance</p>
                             <ul class="actions">
                                 <li><a href="#contact" class="button special">Get Started</a></li>
@@ -175,7 +175,7 @@
                                     <li>
                                         <h3 class="icon fa-phone" style="border-bottom:none; padding:0; margin:0; float:left; width:10%; text-align:center;"><span class="label">Address</span></h3>
                                         <div style="float:left;">
-                                            810-347-8371
+                                            810-354-8880
                                         </div>
                                         <div style="clear:both;"></div>
                                     </li>

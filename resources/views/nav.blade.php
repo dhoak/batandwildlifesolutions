@@ -10,6 +10,7 @@
                                             <li><a href="wildlife">Wildlife Removal</a></li>
                                             <li><a href="attic">Attic Restoration</a></li>
                                             <li><a href="warranty">Warranty</a></li>
+                                            <li><a href="contact-us">Contact</a></li>
                                         </ul>
                                     </div>
                                 </li>

@@ -41,6 +41,9 @@ Route::get('/attic', function () {
 Route::get('/warranty', function () {
     return view('warranty');
 });
+Route::get('/contact-us', function () {
+    return view('contact-us');
+});
 
 Route::post('/contact', 'ContactController@send');
 
