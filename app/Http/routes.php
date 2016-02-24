@@ -44,6 +44,19 @@ Route::get('/warranty', function () {
 Route::get('/contact-us', function () {
     return view('contact-us');
 });
+    
+Route::get('/sitemap', function()
+{
+    $file = public_path(). "/download/sitemap.xml";  // <- Replace with the path to your .xml file
+    // check if the file exists
+    if (file_exists($file)) {
+        // read the file into a string
+        $content = file_get_contents($file);
+        // create a Laravel Response using the content string, an http response code of 200(OK),
+        //  and an array of html headers including the pdf content type
+        return Response::make($content, 200, array('content-type'=>'application/xml'));
+    }
+});
 
 Route::post('/contact', 'ContactController@send');
 
